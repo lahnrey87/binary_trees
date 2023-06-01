@@ -258,13 +258,13 @@ Function Prototypes
 
 ## Authors
 <details>
-    <summary>Suara Ayomide</summary>
+    <summary>Lanre Adepoju</summary>
     <ul>
     <li><a href="https://www.github.com/lahnrey87">Github</a></li>
     </ul>
 </details>
 <details>
-    <summary>Jozinna Chioma</summary>
+    <summary>Augustine Solomon</summary>
     <ul>
     <li><a href="https://www.github.com/solocorpboss">Github</a></li>
     </ul>
